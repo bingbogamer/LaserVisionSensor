@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="LaserVisionSensor">
+    </qresource>
+</RCC>
